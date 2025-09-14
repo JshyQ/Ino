@@ -1,6 +1,6 @@
 export const config = {
-  nameOwner: "rrykarlsefni",
-  noOwner: ["6288802752781"],
+  nameOwner: "Jshy",
+  noOwner: ["6287865843362"],
 
   prefix: [".", ",", "!", "?"],
   emoji: ["😹", "🤭", "🥴"],
@@ -34,13 +34,13 @@ export const config = {
   },
 
   kontak: {
-    nama: ["rrykarlsefni", "MetaAI"],
-    nomor: ["6288802752781", "13135550002"],
+    nama: ["Jshy", "MetaAI"],
+    nomor: ["6287865843362", "13135550002"],
     alamat: ["Ngawi", "meta"],
     organisasi: ["deunamist", "meta"],
     jabatan: ["admin", "meta"],
-    email: ["inouehost69@gmail.com", "support@support.whatsapp.com"],
-    website: ["https://inouehost.my.id", "https://www.meta.ai"],
+    email: ["", ""],
+    website: ["", ""],
     deskripsi: ["this is my owner", "MetaAI"]
     // isi "-" jika ingin mengkosongkan
   }
